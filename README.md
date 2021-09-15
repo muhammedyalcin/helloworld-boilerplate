@@ -50,3 +50,4 @@ You can either use as is, expand it or delete them.
 - [Guides](https://docs.smartface.io)
 - [API Docs](http://ref.smartface.io)
 - [Download Smartface On-Device Emulator](https://e.smartface.io) (Works only for Physical Devices)
+
